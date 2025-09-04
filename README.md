@@ -267,7 +267,7 @@ Vanity Plate Validator (Python)
 
 JavaScript & Malware Obfuscation Analysis
 
-Ae Directory Attack Detection
+Active Directory Attack Detection
 
 Network Traffic Analysis (Wireshark, Zeek, Tcpdump)
 
